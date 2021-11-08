@@ -15,7 +15,7 @@ Import text
 Make sure `c:\game\bin\00_common_01_01.bin` and `c:\game\bin\00_common_01_01.txt` exists.
 
 ```
-Tactics_Script_Tool -e "shift_jis" "gbk" "c:\game\bin\00_common_01_01.bin"
+Tactics_Script_Tool -b "shift_jis" "gbk" "c:\game\bin\00_common_01_01.bin"
 ```
 
 New script will be created in `c:\game\bin\rebuild` directory.
