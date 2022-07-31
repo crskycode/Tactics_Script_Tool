@@ -19,8 +19,3 @@ Tactics_Script_Tool -b "shift_jis" "gbk" "c:\game\bin\00_common_01_01.bin"
 ```
 
 New script will be created in `c:\game\bin\rebuild` directory.
-
-#### Staff
-
-I would be very grateful if you can add me to the staff list of translation project.
-
