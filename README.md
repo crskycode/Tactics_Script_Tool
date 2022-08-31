@@ -21,7 +21,7 @@ Tactics_Script_Tool -b "shift_jis" "gbk" "c:\game\bin\00_common_01_01.bin"
 New script will be created in `c:\game\bin\rebuild` directory.
 
 
-For making translation patch: create folders with same name as original folders which contain the files and place them in same directory with game.exe.
+For making translation patch: create folders with same name as original folders which contain the files and place them in same directory with game.exe. For .dds image, use GARbro to convert to .png, edit and rename .png to .dds
 Example: bin\files, png\files, dds\files, human\content, etc.
 
 ### Tested:
