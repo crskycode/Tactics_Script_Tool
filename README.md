@@ -19,3 +19,10 @@ Tactics_Script_Tool -b "shift_jis" "gbk" "c:\game\bin\00_common_01_01.bin"
 ```
 
 New script will be created in `c:\game\bin\rebuild` directory.
+
+
+For making translation patch: create folders with same name as original folders which contain the files and place them in same directory with game.exe.
+Example: bin\files, png\files, dds\files, human\content, etc.
+
+### Tested:
++ イノセントバレット -the false world-
